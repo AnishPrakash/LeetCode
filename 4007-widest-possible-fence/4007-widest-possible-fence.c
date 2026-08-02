@@ -1,5 +1,3 @@
-#include <stdlib.h>
-
 typedef struct{
     int sum;
     int count;
