@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AnishPrakash/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AnishPrakash/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnishPrakash/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/AnishPrakash/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishPrakash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnishPrakash/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnishPrakash/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AnishPrakash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnishPrakash/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnishPrakash/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/AnishPrakash/LeetCode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnishPrakash/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AnishPrakash/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AnishPrakash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnishPrakash/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnishPrakash/LeetCode/tree/master/1406-stone-game-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnishPrakash/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnishPrakash/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AnishPrakash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -188,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AnishPrakash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnishPrakash/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnishPrakash/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
