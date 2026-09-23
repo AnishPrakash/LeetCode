@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishPrakash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnishPrakash/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AnishPrakash/LeetCode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnishPrakash/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/AnishPrakash/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnishPrakash/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AnishPrakash/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnishPrakash/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnishPrakash/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnishPrakash/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnishPrakash/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnishPrakash/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AnishPrakash/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnishPrakash/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnishPrakash/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AnishPrakash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AnishPrakash/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AnishPrakash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnishPrakash/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnishPrakash/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishPrakash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnishPrakash/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnishPrakash/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -312,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnishPrakash/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnishPrakash/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
